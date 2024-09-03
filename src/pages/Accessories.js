@@ -15,7 +15,7 @@ import {
   Button,
   Container,
 } from "@mui/material";
-import { Delete, Edit, Info } from "@mui/icons-material";
+import { Delete, Edit } from "@mui/icons-material";
 import AccessoryForm from "../components/AccessoryForm";
 
 const Accessories = () => {
